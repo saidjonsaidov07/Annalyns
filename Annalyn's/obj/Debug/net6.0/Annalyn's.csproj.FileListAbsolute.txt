@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\bin\Debug\net6.0\Annalyn's.exe
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\bin\Debug\net6.0\Annalyn's.deps.json
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\bin\Debug\net6.0\Annalyn's.runtimeconfig.json
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\bin\Debug\net6.0\Annalyn's.dll
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\bin\Debug\net6.0\Annalyn's.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\Annalyn's.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\Annalyn's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\Annalyn's.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\Annalyn's.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\Annalyn's.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\Annalyn's.dll
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\refint\Annalyn's.dll
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\Annalyn's.pdb
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\Annalyn's.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Рабочий стол\C#\Internation calling\Annalyn's\Annalyn's\obj\Debug\net6.0\ref\Annalyn's.dll
